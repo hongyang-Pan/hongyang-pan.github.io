@@ -23,7 +23,7 @@ redirect_from:
 
 2022.10 - 2023.10 新加坡科技设计大学，电子与电气工程，联合培养博士，合作导师: [Assoc. Prof. Chau Yuen, IEEE Fellow](https://dr.ntu.edu.sg/cris/rp/rp02157/selectedPublications.html)
 
-2018.09 - 2024.06 吉林大学，计算机应用技术，硕博连读，合作导师: [刘衍珩 教授](https://ccst.jlu.edu.cn/info/1200/17274.htm)、[孙庚 教授](https://sungeng207.github.io/)
+2018.09 - 2024.06 吉林大学，计算机应用技术，硕博连读，导师: [刘衍珩 教授](https://ccst.jlu.edu.cn/info/1200/17274.htm)、[孙庚 教授](https://sungeng207.github.io/)
 
 2013.09 - 2017.06 大连理工大学，过程装备与控制工程，学士 
 
