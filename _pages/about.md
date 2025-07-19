@@ -31,19 +31,23 @@ redirect_from:
 ======
 [1] **Hongyang Pan**, Yanheng Liu, Geng Sun, Qingqing Wu, Tierui Gong, Pengfei Wang, Dusit Niyato, Chau Yuen. Cooperative UAV-mounted RISs-assisted Energy-efficient Communications, IEEE Transactions on Mobile Computing, 2025.
 
-[2] **Hongyang Pan**, Yanheng Liu, Geng Sun, Pengfei Wang, Chau Yuen. Resource Scheduling for UAVs-aided D2D Networks: A Multi-objective Optimization Approach, IEEE Transactions on Wireless Communications, 23(5), 4691-4708, 2024.
+[2] **Hongyang Pan**, Bin Lin, Yanheng Liu, Shuang Liang, Chau Yuen. Diffusion Model-enhanced Multi-objective Optimization for Improving Forest Monitoring Efficiency in UAV-enabled Internet-of-Things, IEEE Internet of Things Journal, 2025.
 
-[3] **Hongyang Pan**, Yanheng Liu, Geng Sun, Junsong Fan, Shuang Liang, Chau Yuen. Joint Power and 3D Trajectory Optimization for UAV-Enabled Wireless Powered Communication Networks With Obstacles, IEEE Transactions on Communications, 71(4), 2364-2380, 2023.
+[3] **Hongyang Pan**, Yanheng Liu, Geng Sun, Pengfei Wang, Chau Yuen. Resource Scheduling for UAVs-aided D2D Networks: A Multi-objective Optimization Approach, IEEE Transactions on Wireless Communications, 23(5), 4691-4708, 2024.
 
-[4] Yanheng Liu, **Hongyang Pan**, Geng Sun, Aimin Wang, Jiahui Li, Shuang Liang. Joint Scheduling and Trajectory Optimization of Charging UAV in Wireless Rechargeable Sensor Networks, IEEE Internet of Things Journal, 9(14), 11796-11813, 2022.
+[4] **Hongyang Pan**, Yanheng Liu, Geng Sun, Junsong Fan, Shuang Liang, Chau Yuen. Joint Power and 3D Trajectory Optimization for UAV-Enabled Wireless Powered Communication Networks With Obstacles, IEEE Transactions on Communications, 71(4), 2364-2380, 2023.
 
-[5] Yanheng Liu, **Hongyang Pan**, Geng Sun, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE Symposium on Computers and Communications (IEEE ISCC 2021).
+[5] Yanheng Liu, **Hongyang Pan**, Geng Sun, Aimin Wang, Jiahui Li, Shuang Liang. Joint Scheduling and Trajectory Optimization of Charging UAV in Wireless Rechargeable Sensor Networks, IEEE Internet of Things Journal, 9(14), 11796-11813, 2022.
 
-[6] **潘弘洋**, 刘昭, 杨波, 等. 基于新一代通信技术的无人机系统群体智能方法综述. 吉林大学学报 (工学版), 2023, 53(3): 629-642.
+[6] Yanheng Liu, **Hongyang Pan**, Geng Sun, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE Symposium on Computers and Communications (IEEE ISCC 2021).
 
-[7] Zemin Sun, Geng Sun, Qingqing Wu, Long He, Shuang Liang, **Hongyang Pan**, Dusit Niyato, Chau Yuen, Victor C.M. Leung. TJCCT: A Two-timescale Approach for UAV-assisted Mobile Edge Computing, IEEE Transactions on Mobile Computing, 2024.
+[7] **潘弘洋**, 刘昭, 杨波, 等. 基于新一代通信技术的无人机系统群体智能方法综述. 吉林大学学报 (工学版), 2023, 53(3): 629-642.
 
-[8] Ziwen An, Yanheng Liu, Geng Sun, **Hongyang Pan**, Aimin Wang. UAV-enabled Wireless Powered Communication Networks: A Joint Scheduling and Trajectory Optimization Approach. IEEE Symposium on Computers and Communications (IEEE ISCC 2022).
+[8] Zemin Sun, Geng Sun, Qingqing Wu, Long He, Shuang Liang, **Hongyang Pan**, Dusit Niyato, Chau Yuen, Victor C.M. Leung. TJCCT: A Two-timescale Approach for UAV-assisted Mobile Edge Computing, IEEE Transactions on Mobile Computing, 2024.
+
+[9] Lingling Liu, Aimin Wang, Geng Sun, Jiahui Li, **Hongyang Pan**, Tony Q. S. Quek. Multi-Objective Optimization for Data Collection in UAV-Assisted Agricultural IoT, IEEE Transactions on Vehicular Technology, 2024.
+
+[10] Ziwen An, Yanheng Liu, Geng Sun, **Hongyang Pan**, Aimin Wang. UAV-enabled Wireless Powered Communication Networks: A Joint Scheduling and Trajectory Optimization Approach. IEEE Symposium on Computers and Communications (IEEE ISCC 2022).
 
 专利
 ------
