@@ -55,5 +55,5 @@ redirect_from:
 
 学术兼职
 ------
-担任 IEEE TMC、IEEE TWC、IEEE TVT、IEEE TNSE、IEEE IoT-J、IEEE TCE、IEEE Systems Journal、China Communications、IEEE NL、IEEE WCNC、IEEE SMC等国际高水平期刊和会议的审稿人。
+担任 IEEE TMC、IEEE TWC、IEEE TCOM、IEEE TVT、IEEE TNSE、IEEE IoT-J、IEEE TCE、IEEE Systems Journal、China Communications、IEEE NL、IEEE WCNC、IEEE SMC等国际高水平期刊和会议的审稿人。
 
