@@ -52,7 +52,7 @@ redirect_from:
 
 合作作者======
 
-[1] Wenxuan Ma, Bin Lin, **Hongyang Pan**, Geng Sun, Enyu Shi, Jiancheng An, Chau Yuen. SIM-assisted Secure Mobile Communications via Enhanced Proximal Policy Optimization Algorithm, IEEE Transactions on Wireless Communications, 2026
+[1] Wenxuan Ma, Bin Lin, **Hongyang Pan**, Geng Sun, Enyu Shi, Jiancheng An, Chau Yuen. SIM-assisted Secure Mobile Communications via Enhanced Proximal Policy Optimization Algorithm, IEEE Transactions on Wireless Communications, 2026.
 
 [2] Geng Sun, Mingzhe Fan, Lei Zhang, **Hongyang Pan**, Jiahui Li, Chuang Zhang, Linyao Li, Changyuan Zhao, Chau Yuen. Generative AI-enhanced Low-Altitude UAV-Mounted Stacked Intelligent Metasurfaces, IEEE Transactions on Cognitive Communications and Networking, 2026.
 
