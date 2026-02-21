@@ -41,7 +41,7 @@ redirect_from:
 
 [4] **Hongyang Pan**, Yanheng Liu, Geng Sun, Pengfei Wang, Chau Yuen. Resource Scheduling for UAVs-aided D2D Networks: A Multi-objective Optimization Approach, IEEE Transactions on Wireless Communications, 23(5), 4691-4708, 2024.
 
-[5] **Hongyang Pan**, Yanheng Liu, Geng Sun, Junsong Fan, Shuang Liang, Chau Yuen. Joint Power and 3D Trajectory Optimization for UAV-Enabled Wireless Powered Communication Networks With Obstacles, IEEE Transactions on Communications, 71(4), 2364-2380, 2023.
+[5] **Hongyang Pan**, Yanheng Liu, Geng Sun, Junsong Fan, Shuang Liang, Chau Yuen. Joint Power and 3D Trajectory Optimization for UAV-Enabled Wireless Powered Communication Networks With Obstacles, IEEE Transactions on Communications, 71(4), 2364-2380, 2023. <span style="color:red">(ESI高被引论文)</span>. 
 
 [6] Yanheng Liu, **Hongyang Pan**, Geng Sun, Aimin Wang, Jiahui Li, Shuang Liang. Joint Scheduling and Trajectory Optimization of Charging UAV in Wireless Rechargeable Sensor Networks, IEEE Internet of Things Journal, 9(14), 11796-11813, 2022.
 
